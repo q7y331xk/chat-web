@@ -28,3 +28,5 @@ need event
 * join
 
 * left
+
+chat / chatRoom nameSpace both need
